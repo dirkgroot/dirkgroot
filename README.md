@@ -2,6 +2,10 @@
 
 My name is Dirk, I'm a developer living in the Netherlands. Thank you for your interest in my GitHub profile.
 
+- 🔭 I’m currently working on [Strucrurizr Site Generatr](https://github.com/avisi-cloud/structurizr-site-generatr) and [Strucurizr DSL IntelliJ plugin](https://github.com/dirkgroot/structurizr-dsl-intellij-plugin)
+- 😄 Pronouns: He/Him
+- 💬 Ask me about Kotlin, Java, C#, Clojure
+
 ---
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dirkgroot&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&custom_title=General%20Stats)
@@ -13,8 +17,6 @@ My name is Dirk, I'm a developer living in the Netherlands. Thank you for your i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
